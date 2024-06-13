@@ -1,0 +1,4 @@
+{
+    "BACKEND_URL": "https://ready-set-gym-backend.onrender.com",
+    "RECIPES_API_URL": "https://www.themealdb.com/api/json/v1/1/random.php"
+}
